@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # 📊 Google Analytics
 
@@ -23,7 +23,7 @@ Medir tráfego e conversões do Bellafy com dados, não com achismo.
 
 ## Navegação
 
-**← Anterior:** [[06-seo]]
-**Próximo:** [[08-aeo]] →
+**← Anterior:** [[marketing/06-seo/README|06-seo]]
+**Próximo:** [[marketing/08-aeo/README|08-aeo]] →
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*

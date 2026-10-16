@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # 🔎 SEO
 
@@ -23,7 +23,7 @@ Posicionar o conteúdo do Bellafy nos mecanismos de busca.
 
 ## Navegação
 
-**← Anterior:** [[05-rd-inbound-analistas]]
-**Próximo:** [[07-google-analytics]] →
+**← Anterior:** [[marketing/05-rd-inbound-analistas/README|05-rd-inbound-analistas]]
+**Próximo:** [[marketing/07-google-analytics/README|07-google-analytics]] →
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*

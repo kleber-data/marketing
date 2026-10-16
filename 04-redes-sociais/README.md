@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # 📱 Redes Sociais
 
@@ -23,7 +23,7 @@ Construir audiência orgânica nas redes sociais do Bellafy.
 
 ## Navegação
 
-**← Anterior:** [[03-marketing-de-conteudo]]
-**Próximo:** [[05-rd-inbound-analistas]] →
+**← Anterior:** [[marketing/03-marketing-de-conteudo/README|03-marketing-de-conteudo]]
+**Próximo:** [[marketing/05-rd-inbound-analistas/README|05-rd-inbound-analistas]] →
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*

@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # 📧 E-mail Marketing
 
@@ -23,7 +23,7 @@ Criar relacionamento e conversão por e-mail com a base de leads do Bellafy.
 
 ## Navegação
 
-**← Anterior:** [[08-aeo]]
-**Próximo:** [[10-whatsapp-marketing]] →
+**← Anterior:** [[marketing/08-aeo/README|08-aeo]]
+**Próximo:** [[marketing/10-whatsapp-marketing/README|10-whatsapp-marketing]] →
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*

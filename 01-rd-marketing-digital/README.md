@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # 🚀 Curso de Marketing Digital (Universidade RD Station)
 
@@ -23,6 +23,6 @@ Entender os fundamentos de marketing digital e inbound (atração, conversão, r
 
 ## Navegação
 
-**Próximo:** [[02-hubspot-inbound]] →
+**Próximo:** [[marketing/02-hubspot-inbound/README|02-hubspot-inbound]] →
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*

@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # 💬 WhatsApp para Marketing
 
@@ -23,6 +23,6 @@ Usar o WhatsApp como canal de relacionamento e venda do Bellafy.
 
 ## Navegação
 
-**← Anterior:** [[09-email-marketing]]
+**← Anterior:** [[marketing/09-email-marketing/README|09-email-marketing]]
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*

@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # ✍️ Marketing de Conteúdo
 
@@ -23,7 +23,7 @@ Planejar e produzir conteúdo que resolva problemas reais do público do Bellafy
 
 ## Navegação
 
-**← Anterior:** [[02-hubspot-inbound]]
-**Próximo:** [[04-redes-sociais]] →
+**← Anterior:** [[marketing/02-hubspot-inbound/README|02-hubspot-inbound]]
+**Próximo:** [[marketing/04-redes-sociais/README|04-redes-sociais]] →
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*

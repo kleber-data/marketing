@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # 🎯 Inbound Marketing para Analistas (Universidade RD Station)
 
@@ -23,7 +23,7 @@ Aplicar funil, SEO, e-mail e automação de forma integrada no Bellafy.
 
 ## Navegação
 
-**← Anterior:** [[04-redes-sociais]]
-**Próximo:** [[06-seo]] →
+**← Anterior:** [[marketing/04-redes-sociais/README|04-redes-sociais]]
+**Próximo:** [[marketing/06-seo/README|06-seo]] →
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*

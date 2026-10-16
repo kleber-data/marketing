@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # 🤖 AEO (Answer Engine Optimization)
 
@@ -23,7 +23,7 @@ Tornar o conteúdo do Bellafy encontrável e citável por buscadores com IA.
 
 ## Navegação
 
-**← Anterior:** [[07-google-analytics]]
-**Próximo:** [[09-email-marketing]] →
+**← Anterior:** [[marketing/07-google-analytics/README|07-google-analytics]]
+**Próximo:** [[marketing/09-email-marketing/README|09-email-marketing]] →
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*

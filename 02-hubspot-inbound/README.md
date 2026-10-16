@@ -1,4 +1,4 @@
-⬆️ [[../README]]
+⬆️ [[marketing/README|Marketing]]
 
 # 🧲 Inbound Marketing (HubSpot Academy)
 
@@ -23,7 +23,7 @@ Dominar a metodologia inbound (atrair, engajar e encantar) para estruturar a jor
 
 ## Navegação
 
-**← Anterior:** [[01-rd-marketing-digital]]
-**Próximo:** [[03-marketing-de-conteudo]] →
+**← Anterior:** [[marketing/01-rd-marketing-digital/README|01-rd-marketing-digital]]
+**Próximo:** [[marketing/03-marketing-de-conteudo/README|03-marketing-de-conteudo]] →
 
 *Mantido por [kleber-data](https://github.com/kleber-data)*
