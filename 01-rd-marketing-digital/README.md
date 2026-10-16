@@ -6,14 +6,15 @@ Este diretório contém as anotações do Curso de Marketing Digital da Universi
 
 ## 📂 Estrutura da Pasta
 
-* 📝 **Anotações:** uma nota por aula, com a data no título (ex.: `# 15/10/2026 – Tema da Aula`) *(a iniciar)*.
+* 📝 **[[marketing/01-rd-marketing-digital/01 - Introdução ao Marketing Digital|01 - Introdução ao Marketing Digital]]:** Inbound x Outbound, pilares do Inbound e persona.
 * 📜 **Certificado:** certificado de conclusão do curso *(a iniciar)*.
 
 ## Aplicação no Bellafy
 
 Aprendizados no formato "aprendi X, aplicar em Y":
 
-- *(a preencher ao final de cada aula)*
+- **Módulo 1:** aprendi que cada canal precisa servir a um objetivo único, aplicar em definir o papel de cada canal do Bellafy (Instagram atrai, isca converte, WhatsApp/e-mail nutre e vende).
+- **Módulo 1:** aprendi a estrutura de persona, aplicar em escrever a persona da podóloga autônoma com dados reais, incluindo uma persona negativa.
 
 ## Objetivo
 
